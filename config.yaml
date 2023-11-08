@@ -1,5 +1,6 @@
 baseURL: https://dridani.github.io/
-languageCode: en-us
+languageCode: id-ID
+defaultContentLanguage: id
 title: DRIDANI BLOG
 paginate: 5
 
@@ -23,19 +24,19 @@ minify:
 
 menu:
       main:
-        - name: Home
+        - name: Beranda
           url: /
           weight: 10
-        - name: Post
+        - name: Postingan
           url: posts/
           weight: 20
-        - name: Archives
+        - name: Arsip
           url: archives/
           weight: 30
-        - name: Search
+        - name: Cari
           url: search/
           weight: 50
-        - name: Tags
+        - name: Tag
           url: tags/
           weight: 40
 
@@ -79,9 +80,9 @@ params:
     imageHeight: 180
     imageTitle: "avatar-profile"
     buttons:
-      - name: About
+      - name: Tentang
         url: /about
-      - name: Posts
+      - name: Postingan
         url: /posts
 
   socialIcons:
