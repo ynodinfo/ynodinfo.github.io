@@ -1,0 +1,147 @@
+baseURL: https://dridani.github.io/
+languageCode: en-us
+title: DRIDANI BLOG
+paginate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod
+
+outputs:
+  home:
+    - HTML
+    - JSON
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+      main:
+        - name: Home
+          url: /
+          weight: 10
+        - name: Post
+          url: posts/
+          weight: 20
+        - name: Archives
+          url: archives/
+          weight: 30
+        - name: Search
+          url: search/
+          weight: 50
+        - name: Tags
+          url: tags/
+          weight: 40
+
+params:
+  author: Dony Ridani
+  env: production
+  description: "Blog pribadi yang berisikan informasi, dokumentasi, catatan, serta keluh kesah."
+  keywords: [Personal Blog, Portfolio, Dridani]
+  DateFormat: "Monday, 2 January 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  ShowShareButtons: true
+  ShowToc: true
+  TocOpen: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  hideFooter: true
+
+  assets:
+    disableHLJS: true
+    favicon: "images/favicon.ico"
+    favicon16x16: "images/favicon-16x16.png"
+    favicon32x32: "images/favicon-32x32.png"
+    apple_touch_icon: "images/apple-touch-icon.png"
+
+  profileMode:
+    enabled: true
+    title: "Dony Ridani"
+    subtitle: "Hello!! Welcome to my personal blog."
+    imageUrl: "images/profile-me.png"
+    imageWidth: 180
+    imageHeight: 180
+    imageTitle: "avatar-profile"
+    buttons:
+      - name: About
+        url: /about
+      - name: Posts
+        url: /posts
+
+  socialIcons:
+    - name: facebook
+      url: "https://facebook.com/dony.ridani"
+    - name: instagram
+      url: "https://instagram.com/dony.ridani/"
+    - name: twitter
+      url: "https://twitter.com/DonyRidani"
+    - name: github
+      url: "https://github.com/dridani"
+  
+  analytics:
+    google:
+      SiteVerificationTag: "#"
+    bing:
+      SiteVerificationTag: "#"
+    yandex:
+      SiteVerificationTag: "#"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+
+    guessSyntax: false
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    noHl: false
+    style: solarized-dark
+    tabWidth: 4
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true

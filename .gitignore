@@ -1,0 +1,12 @@
+# Generated files by Hugo
+/public
+/resources
+/cache
+jsconfig.json
+.hugo_build.lock
+/_vendor
+
+# Hugo Executable Files
+hugo.exe
+hugo.linux
+hugo.darwin
