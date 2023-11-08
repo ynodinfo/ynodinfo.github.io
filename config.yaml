@@ -74,7 +74,7 @@ params:
   profileMode:
     enabled: true
     title: "Dony Ridani"
-    subtitle: "Hello!! Welcome to my personal blog."
+    subtitle: "Hai gaes! Selamat datang di blog pribadi saya."
     imageUrl: "images/profile-me.png"
     imageWidth: 180
     imageHeight: 180
