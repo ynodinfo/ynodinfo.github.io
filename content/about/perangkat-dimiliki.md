@@ -4,6 +4,7 @@ description: "Aplikasi, Perangkat, atau Tools apa saja yang saya gunakan?."
 showtoc: true
 TocOpen: true
 hidemeta: true
+comments: true
 disableShare: true
 ---
 
