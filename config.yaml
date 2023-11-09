@@ -37,9 +37,6 @@ menu:
         - name: Cari
           url: search/
           weight: 50
-        - name: Privasi
-          url: privacy/
-          weight: 40
         - name: Tag
           url: tags/
           weight: 40
