@@ -1,5 +1,5 @@
 +++
-title = "What is enable_shared_from_this in cpp"
+title = "What is enable shared from this in cpp"
 author = ["Dony Ridani"]
 date = 2023-07-03T00:00:00+08:00
 lastmod = 2023-09-17T17:49:55+08:00
