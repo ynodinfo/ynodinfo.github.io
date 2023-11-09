@@ -57,7 +57,7 @@ params:
   ShowShareButtons: true
   ShowToc: true
   TocOpen: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   hideFooter: false
