@@ -2,7 +2,7 @@
 title: "Kontak"
 hidemeta: true
 disableShare: true
-comments: true
+comments: false
 weight: 1
 ---
 

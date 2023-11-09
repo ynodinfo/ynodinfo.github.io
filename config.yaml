@@ -25,18 +25,21 @@ minify:
 
 menu:
       main:
+        - name: Tentang
+          url: about/
+          weight: 10
         - name: Blog
           url: posts/
-          weight: 20
+          weight: 30
         - name: Arsip
           url: archives/
-          weight: 10
+          weight: 20
         - name: Cari
           url: search/
-          weight: 40
+          weight: 50
         - name: Tag
           url: tags/
-          weight: 30
+          weight: 40
 
 params:
   author: Dony Ridani
