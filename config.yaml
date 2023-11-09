@@ -8,6 +8,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+googleAnalytics: G-S8YQR8JN7J
 
 module:
   imports:
@@ -43,7 +44,7 @@ menu:
 params:
   author: Dony Ridani
   env: production
-  description: "Blog pribadi yang berisikan informasi, dokumentasi, catatan, serta keluh kesah."
+  description: "Blog pribadi yang berisikan informasi, dokumentasi, catatan, dan keluh kesah penulis."
   keywords: [Personal Blog, Portfolio, Dridani]
   DateFormat: "Monday, 2 January 2006"
   defaultTheme: auto
