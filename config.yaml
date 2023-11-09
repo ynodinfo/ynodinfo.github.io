@@ -16,6 +16,7 @@ module:
 outputs:
   home:
     - HTML
+    - RSS
     - JSON
 
 minify:
@@ -27,7 +28,7 @@ menu:
         - name: Beranda
           url: /
           weight: 10
-        - name: Postingan
+        - name: Blog
           url: posts/
           weight: 20
         - name: Arsip

@@ -1,7 +1,7 @@
 ---
 title: "Tentang"
-date: 2023-11-03
 ---
+
 **Nama**
 : Dony Ridani
 
@@ -16,8 +16,5 @@ date: 2023-11-03
 
 **Pekerjaan**
 : Blogger & Wirausaha
-
-**PS:**
-: Blog ini serta konten didalamnya berada dibawah lisensi  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---

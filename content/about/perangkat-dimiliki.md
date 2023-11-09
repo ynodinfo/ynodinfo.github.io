@@ -1,20 +1,22 @@
 ---
 title: "Perangkat"
-summary: "Perangkat, Sofware, dan Hardware apa saja yang saya gunakan? Kamu bisa melihatnya di sini."
-date: 2023-11-03
-showtoc: false
-hideSummary: false
+description: "Aplikasi, Perangkat, atau Tools apa saja yang saya gunakan?."
+showtoc: true
+TocOpen: true
 hidemeta: true
 disableShare: true
 ---
 
-## Software
+## Sistem Operasi (OS)
 
 OS yang terinstal di laptop saya saat ini ada 2 atau biasa disebut **dual boot**, yaitu:
 
 - Windows 11 Ghost spectre
 - Linux Manjaro Cinnamon (sebagai os utama)
 
+---
+
+## Aplikasi/Tools
 Kebanyakan aplikasi yang saya gunakan bersifat _free & open source_, kamu bisa melihat list daftarnya di bawah ini.
 
 | Program                | Aplikasi                      |
@@ -48,7 +50,9 @@ Kebanyakan aplikasi yang saya gunakan bersifat _free & open source_, kamu bisa m
 | Device Mirroring       | scrcpy                        |
 | Git Control Management | lazygit                       |
 
-## Hardware
+---
+
+## Laptop
 
 Saya memiliki sebuah laptop yang saya pakai sampai saat ini, yaitu Lenovo Thinkpad X220. Laptop yang dikeluarkan lebih dari 10 tahun lalu ini, masih memumpuni untuk menunjang kebutuhan saya sehari-hari. saya telah melakukan beberapa upgrade diantaranya:
 
@@ -57,7 +61,9 @@ Saya memiliki sebuah laptop yang saya pakai sampai saat ini, yaitu Lenovo Thinkp
 
 Dengan upgrade seperti di atas lalu disandingkan dengan OS Linux, membuat saya masih betah dengan laptop yang satu ini. Salah-satu hal yang membuat laptop ini masih worth it bagi saya sampai sekarang adalah keyboardnya yang sangat mudah dan  nyaman saat digunakan untuk mengetik.
 
-## Perangkat Seluler
+---
+
+## Handphone
 
 Saya menggunakan perangkat Android dari tahun 2015 sampai sekarang, HP Android pertama yang saya miliki adalah Samsung Galaxy Young 2 Duos. Setelahnya saya sempat memakai berbagai macam produk, namun untuk sekarang ini saya memakai HP dari produk Xiaomi yaitu Poco X3 NFC.
 
