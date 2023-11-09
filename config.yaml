@@ -25,21 +25,18 @@ minify:
 
 menu:
       main:
-        - name: Beranda
-          url: /
-          weight: 10
         - name: Blog
           url: posts/
           weight: 20
         - name: Arsip
           url: archives/
-          weight: 30
+          weight: 10
         - name: Cari
           url: search/
-          weight: 50
+          weight: 40
         - name: Tag
           url: tags/
-          weight: 40
+          weight: 30
 
 params:
   author: Dony Ridani
@@ -53,7 +50,7 @@ params:
   ShowReadingTime: true
   displayFullLangName: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: false
+  ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
@@ -63,7 +60,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  hideFooter: true
+  hideFooter: false
 
   assets:
     disableHLJS: true
@@ -95,6 +92,8 @@ params:
       url: "https://twitter.com/DonyRidani"
     - name: github
       url: "https://github.com/dridani"
+    - name: rss
+      url: "index.xml"
   
   analytics:
     google:

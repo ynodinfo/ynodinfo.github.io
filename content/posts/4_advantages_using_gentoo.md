@@ -1,10 +1,10 @@
 +++
 title = "Advantages using Gentoo"
+description = "when I install Emacs, and I need Emacs Lisp native compiler support, I just need to add a USE flag like below"
 author = ["Dony Ridani"]
 date = 2023-07-04T00:00:00+08:00
 lastmod = 2023-09-17T17:53:51+08:00
 tags = ["linux", "gentoo"]
-category = ["linux"]
 draft = false
 +++
 

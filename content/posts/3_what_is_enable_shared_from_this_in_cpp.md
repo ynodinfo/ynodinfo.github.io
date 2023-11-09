@@ -4,6 +4,7 @@ author = ["Dony Ridani"]
 date = 2023-07-03T00:00:00+08:00
 lastmod = 2023-09-17T17:49:55+08:00
 tags = ["cpp"]
+description = "It is because when a shared_ptr was created, the control block was build up too, and there are three methods can create control block"
 draft = false
 +++
 
