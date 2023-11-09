@@ -8,7 +8,6 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-googleAnalytics: G-S8YQR8JN7J
 
 module:
   imports:
