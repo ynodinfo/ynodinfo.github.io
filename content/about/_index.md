@@ -4,7 +4,7 @@ title: "Tentang"
 
 **Assalamualaikum** 
 
-Hello!! Kenalkan nama lengkap saya Dony Ridani, panggil saja Dony. Saya seorang blogger asal Kalimantan yang sangat menyukai hal-hal baru dalam dunia teknologi, khususnya Android dan Komputer.
+Hello!! Kenalkan nama lengkap saya Dony Ridani, panggil saja Dony. Saya seorang berasal dari Kalimantan Selatan dan sangat menyukai hal-hal baru dalam dunia teknologi, khususnya Android dan Komputer.
 
 Saya senang menghabiskan waktu luang dengan mempelajari, mengekplorasi, mengoptimalisasi, mengoprek, memodifikasi, atau hanya sekedar mengotak-atik sesuatu. Bisa dibilang tangan saya selalu gatal, kalo sudah penasaran akan suatu hal. 😅
 
@@ -21,11 +21,5 @@ Di samping itu, sebagian besar waktu saya dihabiskan di dalam rumah. Saat berada
 Mungkin segitu saja ya yang bisa saya jelaskan, aslinya saya kurang cakap dalam merangkai kata-kata, jujur ketimbang menulis saya lebih suka membaca makanya literasi menulis saya hanya begini apa adanya. Hehe
 
 **Wassalamu'alaikum** 
-
-Beberapa halaman yang mungkin kamu tertarik:
-
-• Tentang Blog Ini serta alasan dan tujuan dibangunnya
-
-• Aplikasi atau Tools yang biasa saya pakai
 
 ---
