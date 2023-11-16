@@ -6,6 +6,7 @@ TocOpen: true
 hidemeta: true
 comments: false
 disableShare: true
+draft : true
 ---
 
 ## Sistem Operasi (OS)

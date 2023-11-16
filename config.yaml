@@ -28,7 +28,7 @@ menu:
         - name: Tentang
           url: about/
           weight: 10
-        - name: Blog
+        - name: Postingan
           url: posts/
           weight: 30
         - name: Arsip
@@ -80,11 +80,6 @@ params:
     imageWidth: 180
     imageHeight: 180
     imageTitle: "avatar-profile"
-    buttons:
-      - name: Tentang
-        url: /about
-      - name: Postingan
-        url: /posts
 
   socialIcons:
     - name: facebook

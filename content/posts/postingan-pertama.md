@@ -1,11 +1,12 @@
-+++
-title = "Link Load Lib"
-author = ["Dony Ridani"]
-date = 2023-07-02T00:00:00+08:00
-lastmod = 2023-09-17T17:50:28+08:00
-tags = ["link", "load", "lib"]
-draft = false
-+++
+---
+title : "Postingan Pertama"
+author : ["Dony Ridani"]
+date : 2023-07-02
+lastmod : 2023-09-17
+tags : ["Dairy"]
+draft : false
+comments: false
+---
 
 ## Chap I {#chap-i}
 
@@ -77,15 +78,15 @@ Some Segments
 ```C
 int printf(const char *, ...);
 
-int global_init_var = 0x11;
+int global_init_var : 0x11;
 int global_uninit_var;
 
 void func(int i) { printf("%d\n", i); }
 
 int main(void) {
-  static int static_var = 0x22;
+  static int static_var : 0x22;
   static int static_var2;
-  int a = 1;
+  int a : 1;
   int b;
   func(static_var + static_var2 + a + b);
   return a;
