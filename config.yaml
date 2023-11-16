@@ -77,8 +77,8 @@ params:
     title: "Dony Ridani"
     subtitle: "Hai gaes! Selamat datang di blog pribadi saya."
     imageUrl: "images/profile-me.png"
-    imageWidth: 180
-    imageHeight: 180
+    imageWidth: 200
+    imageHeight: 200
     imageTitle: "avatar-profile"
 
   socialIcons:
