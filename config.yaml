@@ -88,8 +88,6 @@ params:
       url: "https://instagram.com/dony.ridani/"
     - name: twitter
       url: "https://twitter.com/DonyRidani"
-    - name: github
-      url: "https://github.com/dridani"
     - name: rss
       url: "index.xml"
   
