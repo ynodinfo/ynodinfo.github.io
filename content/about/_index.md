@@ -2,24 +2,18 @@
 title: "Tentang"
 ---
 
-**Assalamualaikum** 
+**Assalamualaikum**
 
-Hello!! Kenalkan nama lengkap saya Dony Ridani, panggil saja Dony. Saya seorang berasal dari Kalimantan Selatan dan sangat menyukai hal-hal baru dalam dunia teknologi, khususnya Android dan Komputer.
+Haii!! Kenalkan saya Dony Ridani, panggil saja Dony. Saya berasal dari Kalimantan Selatan dan sangat menyukai hal-hal baru dalam dunia teknologi, khususnya Android,  Komputer, dan Pemrograman.
 
-Saya senang menghabiskan waktu luang dengan mempelajari, mengekplorasi, mengoptimalisasi, mengoprek, memodifikasi, atau hanya sekedar mengotak-atik sesuatu. Bisa dibilang tangan saya selalu gatal, kalo sudah penasaran akan suatu hal. 😅
+Saya senang menghabiskan waktu luang dengan mempelajari, mengekplorasi, mengoptimalisasi, mengoprek, memodifikasi, atau hanya sekedar mengotak-atik sesuatu. Bisa dibilang tangan ini selalu gatal, kalo sudah penasaran dengan suatu hal. 😅
 
-Meski begitu, bagi saya ini bukan hanya sekedar kesenangan pribadi, tetapi juga sebuah pintu yang menghubungkan saya dengan dunia teknologi yang semakin berkembang pesat.
+Meski begitu, bagi saya ini _bukan hanya sekedar kesenangan pribadi_, namun juga sebagai pintu yang menghubungkan saya dengan dunia teknologi yang semakin berkembang pesat.
 
-Begitu juga di dunia pemrograman, mempelajari dan mempraktekkan bahasa pemrograman sudah menjadi hobi saya dalam beberapa tahun kebelakang. Karena kecenderungan saya yang suka penasaran, pemrograman adalah wadah alternatif yang tepat untuk saya menyalurkannya.
+Tidak hanya terpaku pada dunia digital, saya juga memiliki hobi lain di luar itu. Saya juga senang traveling menjelajahi tempat-tempat baru dan menikmati keindahan alam. Rasanya menyenangkan bisa menikmati keindahan ciptaan Allah SWT dan mengabadikannya dalam foto atau video.
 
-Saat ini, saya sedang fokus dalam mempelajari dua bahasa pemrograman yaitu Go dan C++. Menurut saya, Go adalah bahasa yang sangat menarik karena kecepatan eksekusinya yang tinggi dan kesederhanaannya dalam penulisan kode. Sedangkan C++, saya merasa tertantang untuk menguasai bahasa ini karena kesulitan dalam mempelajarinya, sehingga saya tidak pernah bosan dan selalu penasaran dibuatnya. Kaya sama dia 😉
+Mungkin segitu saja yang bisa saya jelaskan tentang saya untuk saat ini, selanjutnya bisa kamu lihat di [Postingan saya](/posts). 
 
-Namun, tak hanya terpaku pada dunia digital, saya juga memiliki hobi lain di luar itu. Saya juga senang menjelajahi tempat-tempat baru dan menikmati keindahan alam. Rasanya menyenangkan bisa menikmati keindahan alam dan mengabadikannya dalam foto atau video.
-
-Di samping itu, sebagian besar waktu saya dihabiskan di dalam rumah. Saat berada di rumah, saya sering membaca artikel atau buku tentang teknologi dan pemrograman, serta mengikuti berbagai forum online untuk meningkatkan kemampuan saya dalam bidang ini.
-
-Mungkin segitu saja ya yang bisa saya jelaskan, aslinya saya kurang cakap dalam merangkai kata-kata, jujur ketimbang menulis saya lebih suka membaca makanya literasi menulis saya hanya begini apa adanya. Hehe
-
-**Wassalamu'alaikum** 
+**Wassalamu'alaikum**
 
 ---
