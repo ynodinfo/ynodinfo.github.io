@@ -1,5 +1,6 @@
 ---
 title: "Tentang"
+url: /tentang
 ---
 
 **Assalamualaikum**
