@@ -26,19 +26,19 @@ minify:
 menu:
       main:
         - name: Tentang
-          url: about/
+          url: tentang/
           weight: 10
         - name: Postingan
           url: posts/
           weight: 30
         - name: Arsip
-          url: archives/
+          url: arsip/
           weight: 20
         - name: Cari
-          url: search/
+          url: cari/
           weight: 50
         - name: Tag
-          url: tags/
+          url: tag/
           weight: 40
 
 params:
