@@ -29,7 +29,7 @@ menu:
           url: tentang/
           weight: 10
         - name: Postingan
-          url: posts/
+          url: postingan/
           weight: 30
         - name: Arsip
           url: arsip/
