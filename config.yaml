@@ -88,6 +88,8 @@ params:
       url: "https://instagram.com/dony.ridani/"
     - name: twitter
       url: "https://twitter.com/DonyRidani"
+    - name: telegram
+      url: "https://t.me/iminterfacing"
     - name: rss
       url: "index.xml"
   
