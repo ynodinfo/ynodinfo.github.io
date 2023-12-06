@@ -1,3 +1,4 @@
 ---
 title: "Postingan"
+url: /postingan
 ---
