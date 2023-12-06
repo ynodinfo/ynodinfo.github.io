@@ -16,5 +16,3 @@ Tidak hanya terpaku pada dunia digital, saya juga memiliki hobi lain di luar itu
 Mungkin segitu saja yang bisa saya jelaskan tentang saya untuk saat ini, selanjutnya bisa kamu lihat di [Postingan saya](/postingan). 
 
 **Wassalamu'alaikum**
-
----
