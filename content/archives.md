@@ -1,6 +1,6 @@
 ---
 title: "Arsip"
 layout: "archives"
-# url: "/archives"
+url: /arsip
 summary: "archives"
 ---
